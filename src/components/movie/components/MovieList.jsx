@@ -1,4 +1,4 @@
-import styles from "./MovieList.scss";
+import "./MovieList.scss";
 
 import React, { Component } from "react";
 import PropTypes from "prop-types";
@@ -75,14 +75,7 @@ class MovieList extends Component {
   };
 
   render() {
-    return (
-      <div
-        className={styles.movieList}
-        
-      >
-        {this.renderList()}
-      </div>
-    );
+    return <div className="movieList">{this.renderList()}</div>;
   }
 }
 

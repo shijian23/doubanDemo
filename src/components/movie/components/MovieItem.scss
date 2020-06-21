@@ -1,7 +1,11 @@
 .movieItem {
   flex: 1;
-  .img {
-    width: 140;
-    height: 260;
+  border: 1px #ccc;
+  margin: 5px;
+
+  img {
+
+    width: 180px;
+    height: 220px;
   }
 }

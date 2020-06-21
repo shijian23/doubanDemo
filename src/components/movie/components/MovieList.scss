@@ -1,4 +1,13 @@
 .movieList {
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
+  text-overflow: ellipsis;
+  justify-content: space-around;
+  .movieList::after {
+    content: "";
+    flex: 1; /* 或者flex: 1 */
+  }
+  
 }
+

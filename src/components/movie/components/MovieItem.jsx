@@ -1,4 +1,4 @@
-import styles from "./MovieItem.scss";
+import "./MovieItem.scss";
 
 import React, { Component } from "react";
 import { Card } from "antd";
@@ -18,7 +18,7 @@ class MovieItem extends Component {
     console.log(movie);
 
     return (
-      <div className={styles.movieItem}>
+      <div className="movieItem">
         {/* <Card
           hoverable
           style={{ width: 240 }}
@@ -34,11 +34,15 @@ class MovieItem extends Component {
 
         <Card
           hoverable
-          style={{ width: 240 }}
-          cover={<img alt={movie.year} src={movie.images.small.replace('img3.doubanio.com','img9.doubanio.com')} />}
+          style={{ width: 180 }}
+          cover={
+            <img
+              alt={movie.year}
+              src={movie.images.small.replace("img3", "img9")}
+            />
+          }
         >
           <Meta title={movie.title} description={movie.genres} />
-          .replace('img3.doubanio.com','img9.doubanio.com')
         </Card>
       </div>
     );

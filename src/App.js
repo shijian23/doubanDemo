@@ -30,7 +30,7 @@ class App extends Component {
                                 <Link to="/movie">电影</Link>
                             </Menu.Item>
                             <Menu.Item key="about">
-                                <Link to="/about">关于</Link>
+                                <Link to="/about">疫情地图</Link>
                             </Menu.Item>
                         </Menu>
                     </Header>
