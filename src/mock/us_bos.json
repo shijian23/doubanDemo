@@ -1,0 +1,1052 @@
+{
+    "date": "3月13日 - 3月15日",
+    "subjects": [
+        {
+            "box": 10532000,
+            "new": false,
+            "rank": 1,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 7.9,
+                    "details": {
+                        "1": 62.0,
+                        "3": 5798.0,
+                        "2": 468.0,
+                        "5": 5727.0,
+                        "4": 11557.0
+                    },
+                    "stars": "40",
+                    "min": 0
+                },
+                "genres": [
+                    "喜剧",
+                    "动画",
+                    "奇幻"
+                ],
+                "title": "1/2的魔法",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg"
+                        },
+                        "name_en": "Tom Holland",
+                        "name": "汤姆·赫兰德",
+                        "alt": "https://movie.douban.com/celebrity/1325351/",
+                        "id": "1325351"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1408711300.32.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1408711300.32.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1408711300.32.jpg"
+                        },
+                        "name_en": "Chris Pratt",
+                        "name": "克里斯·帕拉特",
+                        "alt": "https://movie.douban.com/celebrity/1017967/",
+                        "id": "1017967"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59005.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59005.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59005.jpg"
+                        },
+                        "name_en": "Julia Louis-Dreyfus",
+                        "name": "茱莉亚·路易斯-德瑞弗斯",
+                        "alt": "https://movie.douban.com/celebrity/1055305/",
+                        "id": "1055305"
+                    }
+                ],
+                "durations": [
+                    "102分钟"
+                ],
+                "collect_count": 30009,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Onward",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1369983000.12.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1369983000.12.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1369983000.12.jpg"
+                        },
+                        "name_en": "Dan Scanlon",
+                        "name": "丹·斯坎隆",
+                        "alt": "https://movie.douban.com/celebrity/1329645/",
+                        "id": "1329645"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-21(柏林电影节)",
+                    "2020-03-06(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575243691.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575243691.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575243691.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/30401849/",
+                "id": "30401849"
+            }
+        },
+        {
+            "box": 9500000,
+            "new": true,
+            "rank": 2,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 6.6,
+                    "details": {
+                        "1": 15.0,
+                        "3": 586.0,
+                        "2": 108.0,
+                        "5": 89.0,
+                        "4": 253.0
+                    },
+                    "stars": "35",
+                    "min": 0
+                },
+                "genres": [
+                    "剧情",
+                    "爱情",
+                    "音乐"
+                ],
+                "title": "我仍然相信",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518490172.63.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518490172.63.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518490172.63.jpg"
+                        },
+                        "name_en": "Britt Robertson",
+                        "name": "布丽特·罗伯森",
+                        "alt": "https://movie.douban.com/celebrity/1000088/",
+                        "id": "1000088"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pz5G0Uio0Kw4cel_avatar_uploaded1486095577.91.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pz5G0Uio0Kw4cel_avatar_uploaded1486095577.91.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pz5G0Uio0Kw4cel_avatar_uploaded1486095577.91.jpg"
+                        },
+                        "name_en": "K.J. Apa",
+                        "name": "K·J·阿帕",
+                        "alt": "https://movie.douban.com/celebrity/1368098/",
+                        "id": "1368098"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519122573.92.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519122573.92.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519122573.92.jpg"
+                        },
+                        "name_en": "Melissa Roxburgh",
+                        "name": "梅丽莎·罗斯伯格",
+                        "alt": "https://movie.douban.com/celebrity/1339863/",
+                        "id": "1339863"
+                    }
+                ],
+                "durations": [
+                    "115分钟"
+                ],
+                "collect_count": 1598,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "I Still Believe",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373131.08.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373131.08.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373131.08.jpg"
+                        },
+                        "name_en": "Andrew Erwin",
+                        "name": "安德鲁·欧文",
+                        "alt": "https://movie.douban.com/celebrity/1342412/",
+                        "id": "1342412"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373056.39.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373056.39.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1446373056.39.jpg"
+                        },
+                        "name_en": "Jon Erwin",
+                        "name": "乔恩·欧文",
+                        "alt": "https://movie.douban.com/celebrity/1342413/",
+                        "id": "1342413"
+                    }
+                ],
+                "pubdates": [
+                    "2020-03-13(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566581198.jpg",
+                    "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566581198.jpg",
+                    "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566581198.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/34802738/",
+                "id": "34802738"
+            }
+        },
+        {
+            "box": 9300000,
+            "new": true,
+            "rank": 3,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 5.6,
+                    "details": {
+                        "1": 108.0,
+                        "3": 1132.0,
+                        "2": 583.0,
+                        "5": 59.0,
+                        "4": 228.0
+                    },
+                    "stars": "30",
+                    "min": 0
+                },
+                "genres": [
+                    "动作",
+                    "科幻"
+                ],
+                "title": "喋血战士",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53186.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53186.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53186.jpg"
+                        },
+                        "name_en": "Vin Diesel",
+                        "name": "范·迪塞尔",
+                        "alt": "https://movie.douban.com/celebrity/1041020/",
+                        "id": "1041020"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566461332.8.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566461332.8.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566461332.8.jpg"
+                        },
+                        "name_en": "Eiza González",
+                        "name": "艾莎·冈萨雷斯",
+                        "alt": "https://movie.douban.com/celebrity/1233270/",
+                        "id": "1233270"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1430636810.17.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1430636810.17.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1430636810.17.jpg"
+                        },
+                        "name_en": "Sam Heughan",
+                        "name": "萨姆·修汉",
+                        "alt": "https://movie.douban.com/celebrity/1182341/",
+                        "id": "1182341"
+                    }
+                ],
+                "durations": [
+                    "109分钟"
+                ],
+                "collect_count": 13977,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Bloodshot",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552898494.3.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552898494.3.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552898494.3.jpg"
+                        },
+                        "name_en": "Dave Wilson",
+                        "name": "戴夫·威尔逊",
+                        "alt": "https://movie.douban.com/celebrity/1412975/",
+                        "id": "1412975"
+                    }
+                ],
+                "pubdates": [
+                    "2020-03-13(美国)",
+                    "2020(中国大陆)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581718132.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581718132.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581718132.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/4830483/",
+                "id": "4830483"
+            }
+        },
+        {
+            "box": 6000000,
+            "new": false,
+            "rank": 4,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 7.3,
+                    "details": {
+                        "1": 890.0,
+                        "3": 36772.0,
+                        "2": 4088.0,
+                        "5": 12763.0,
+                        "4": 49954.0
+                    },
+                    "stars": "40",
+                    "min": 0
+                },
+                "genres": [
+                    "科幻",
+                    "惊悚",
+                    "恐怖"
+                ],
+                "title": "隐形人",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363165342.95.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363165342.95.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363165342.95.jpg"
+                        },
+                        "name_en": "Elisabeth Moss",
+                        "name": "伊丽莎白·莫斯",
+                        "alt": "https://movie.douban.com/celebrity/1022566/",
+                        "id": "1022566"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53642.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53642.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53642.jpg"
+                        },
+                        "name_en": "Oliver Jackson-Cohen",
+                        "name": "奥利弗·杰森-科恩",
+                        "alt": "https://movie.douban.com/celebrity/1315193/",
+                        "id": "1315193"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33437.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33437.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p33437.jpg"
+                        },
+                        "name_en": "Aldis Hodge",
+                        "name": "阿尔迪斯·霍吉",
+                        "alt": "https://movie.douban.com/celebrity/1098575/",
+                        "id": "1098575"
+                    }
+                ],
+                "durations": [
+                    "124分钟"
+                ],
+                "collect_count": 132869,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "The Invisible Man",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464358974.95.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464358974.95.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1464358974.95.jpg"
+                        },
+                        "name_en": "Leigh Whannell",
+                        "name": "雷·沃纳尔",
+                        "alt": "https://movie.douban.com/celebrity/1014029/",
+                        "id": "1014029"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-28(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2592006169.jpg",
+                    "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2592006169.jpg",
+                    "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2592006169.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/2364086/",
+                "id": "2364086"
+            }
+        },
+        {
+            "box": 5320000,
+            "new": true,
+            "rank": 5,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 7.3,
+                    "details": {
+                        "1": 521.0,
+                        "3": 28910.0,
+                        "2": 3434.0,
+                        "5": 10998.0,
+                        "4": 33266.0
+                    },
+                    "stars": "40",
+                    "min": 0
+                },
+                "genres": [
+                    "动作",
+                    "惊悚"
+                ],
+                "title": "狩猎",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1585148755.15.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1585148755.15.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1585148755.15.jpg"
+                        },
+                        "name_en": "Betty Gilpin",
+                        "name": "贝蒂·吉尔平",
+                        "alt": "https://movie.douban.com/celebrity/1349104/",
+                        "id": "1349104"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p584.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p584.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p584.jpg"
+                        },
+                        "name_en": "Hilary Swank",
+                        "name": "希拉里·斯万克",
+                        "alt": "https://movie.douban.com/celebrity/1054411/",
+                        "id": "1054411"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36683.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36683.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36683.jpg"
+                        },
+                        "name_en": "Emma Roberts",
+                        "name": "艾玛·罗伯茨",
+                        "alt": "https://movie.douban.com/celebrity/1035675/",
+                        "id": "1035675"
+                    }
+                ],
+                "durations": [
+                    "90分钟"
+                ],
+                "collect_count": 97210,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "The Hunt",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359099906.3.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359099906.3.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359099906.3.jpg"
+                        },
+                        "name_en": "Craig Zobel",
+                        "name": "克雷格·卓贝",
+                        "alt": "https://movie.douban.com/celebrity/1301770/",
+                        "id": "1301770"
+                    }
+                ],
+                "pubdates": [
+                    "2020-03-13(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585533507.jpg",
+                    "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585533507.jpg",
+                    "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585533507.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/30182726/",
+                "id": "30182726"
+            }
+        },
+        {
+            "box": 2575000,
+            "new": false,
+            "rank": 6,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 6.1,
+                    "details": {
+                        "1": 77.0,
+                        "3": 1860.0,
+                        "2": 533.0,
+                        "5": 120.0,
+                        "4": 601.0
+                    },
+                    "stars": "30",
+                    "min": 0
+                },
+                "genres": [
+                    "喜剧",
+                    "动作",
+                    "动画"
+                ],
+                "title": "刺猬索尼克",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p276.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p276.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p276.jpg"
+                        },
+                        "name_en": "James Marsden",
+                        "name": "詹姆斯·麦斯登",
+                        "alt": "https://movie.douban.com/celebrity/1048023/",
+                        "id": "1048023"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p615.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p615.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p615.jpg"
+                        },
+                        "name_en": "Jim Carrey",
+                        "name": "金·凯瑞",
+                        "alt": "https://movie.douban.com/celebrity/1054438/",
+                        "id": "1054438"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1589625660.67.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1589625660.67.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1589625660.67.jpg"
+                        },
+                        "name_en": "Ben Schwartz",
+                        "name": "本·施瓦茨",
+                        "alt": "https://movie.douban.com/celebrity/1314604/",
+                        "id": "1314604"
+                    }
+                ],
+                "durations": [
+                    "99分钟"
+                ],
+                "collect_count": 18002,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Sonic the Hedgehog",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502164074.72.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502164074.72.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502164074.72.jpg"
+                        },
+                        "name_en": "Jeff Fowler",
+                        "name": "杰夫·福勒",
+                        "alt": "https://movie.douban.com/celebrity/1024763/",
+                        "id": "1024763"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-14(美国)",
+                    "2020(中国大陆)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582485085.jpg",
+                    "large": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582485085.jpg",
+                    "medium": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582485085.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/25905044/",
+                "id": "25905044"
+            }
+        },
+        {
+            "box": 2415000,
+            "new": false,
+            "rank": 7,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 6.7,
+                    "details": {
+                        "1": 27.0,
+                        "3": 1762.0,
+                        "2": 203.0,
+                        "5": 220.0,
+                        "4": 854.0
+                    },
+                    "stars": "35",
+                    "min": 0
+                },
+                "genres": [
+                    "剧情",
+                    "运动"
+                ],
+                "title": "回归之路",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552457947.91.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552457947.91.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1552457947.91.jpg"
+                        },
+                        "name_en": "Ben Affleck",
+                        "name": "本·阿弗莱克",
+                        "alt": "https://movie.douban.com/celebrity/1054417/",
+                        "id": "1054417"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22760.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22760.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22760.jpg"
+                        },
+                        "name_en": "Janina Gavankar",
+                        "name": "詹妮娜·加万卡",
+                        "alt": "https://movie.douban.com/celebrity/1036555/",
+                        "id": "1036555"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501476795.92.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501476795.92.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501476795.92.jpg"
+                        },
+                        "name_en": "Michaela Watkins",
+                        "name": "麦可拉·沃金丝",
+                        "alt": "https://movie.douban.com/celebrity/1185170/",
+                        "id": "1185170"
+                    }
+                ],
+                "durations": [
+                    "108分钟"
+                ],
+                "collect_count": 4151,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "The Way Back",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1481409552.4.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1481409552.4.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1481409552.4.jpg"
+                        },
+                        "name_en": "Gavin O'Connor",
+                        "name": "加文·欧康诺",
+                        "alt": "https://movie.douban.com/celebrity/1293387/",
+                        "id": "1293387"
+                    }
+                ],
+                "pubdates": [
+                    "2020-03-06(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2580473992.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2580473992.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2580473992.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/30345227/",
+                "id": "30345227"
+            }
+        },
+        {
+            "box": 2241000,
+            "new": false,
+            "rank": 8,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 7.1,
+                    "details": {
+                        "1": 18.0,
+                        "3": 1130.0,
+                        "2": 134.0,
+                        "5": 337.0,
+                        "4": 952.0
+                    },
+                    "stars": "35",
+                    "min": 0
+                },
+                "genres": [
+                    "剧情",
+                    "冒险"
+                ],
+                "title": "野性的呼唤",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1452760482.06.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1452760482.06.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1452760482.06.jpg"
+                        },
+                        "name_en": "Harrison Ford",
+                        "name": "哈里森·福特",
+                        "alt": "https://movie.douban.com/celebrity/1009238/",
+                        "id": "1009238"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359042267.71.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359042267.71.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359042267.71.jpg"
+                        },
+                        "name_en": "Dan Stevens",
+                        "name": "丹·史蒂文斯",
+                        "alt": "https://movie.douban.com/celebrity/1027527/",
+                        "id": "1027527"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3221.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3221.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3221.jpg"
+                        },
+                        "name_en": "Karen Gillan",
+                        "name": "凯伦·吉兰",
+                        "alt": "https://movie.douban.com/celebrity/1036344/",
+                        "id": "1036344"
+                    }
+                ],
+                "durations": [
+                    "100分钟"
+                ],
+                "collect_count": 16813,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "The Call of the Wild",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363847021.32.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363847021.32.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363847021.32.jpg"
+                        },
+                        "name_en": "Chris Sanders",
+                        "name": "克里斯·桑德斯",
+                        "alt": "https://movie.douban.com/celebrity/1032241/",
+                        "id": "1032241"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-21(美国)",
+                    "2020(中国大陆)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2583544383.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2583544383.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2583544383.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/27199324/",
+                "id": "27199324"
+            }
+        },
+        {
+            "box": 1370000,
+            "new": false,
+            "rank": 9,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 7.1,
+                    "details": {
+                        "1": 69.0,
+                        "3": 3163.0,
+                        "2": 439.0,
+                        "5": 928.0,
+                        "4": 3045.0
+                    },
+                    "stars": "35",
+                    "min": 0
+                },
+                "genres": [
+                    "剧情",
+                    "喜剧"
+                ],
+                "title": "爱玛",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456133030.94.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456133030.94.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1456133030.94.jpg"
+                        },
+                        "name_en": "Anya Taylor-Joy",
+                        "name": "安雅·泰勒-乔伊",
+                        "alt": "https://movie.douban.com/celebrity/1354934/",
+                        "id": "1354934"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535355163.53.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535355163.53.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535355163.53.jpg"
+                        },
+                        "name_en": "Johnny Flynn",
+                        "name": "强尼·弗林",
+                        "alt": "https://movie.douban.com/celebrity/1206041/",
+                        "id": "1206041"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22143.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22143.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22143.jpg"
+                        },
+                        "name_en": "Bill Nighy",
+                        "name": "比尔·奈伊",
+                        "alt": "https://movie.douban.com/celebrity/1041002/",
+                        "id": "1041002"
+                    }
+                ],
+                "durations": [
+                    "124分钟"
+                ],
+                "collect_count": 10204,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Emma.",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1582423588.34.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1582423588.34.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1582423588.34.jpg"
+                        },
+                        "name_en": "Autumn de Wilde",
+                        "name": "奥特姆·代·怀尔德",
+                        "alt": "https://movie.douban.com/celebrity/1426911/",
+                        "id": "1426911"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-14(英国)",
+                    "2020-02-21(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581191543.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581191543.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2581191543.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/30361878/",
+                "id": "30361878"
+            }
+        },
+        {
+            "box": 1100000,
+            "new": false,
+            "rank": 10,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 5.7,
+                    "details": {
+                        "1": 140.0,
+                        "3": 2038.0,
+                        "2": 813.0,
+                        "5": 97.0,
+                        "4": 431.0
+                    },
+                    "stars": "30",
+                    "min": 0
+                },
+                "genres": [
+                    "喜剧",
+                    "动作",
+                    "犯罪"
+                ],
+                "title": "绝地战警：疾速追击",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg"
+                        },
+                        "name_en": "Will Smith",
+                        "name": "威尔·史密斯",
+                        "alt": "https://movie.douban.com/celebrity/1027138/",
+                        "id": "1027138"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8069.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8069.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8069.jpg"
+                        },
+                        "name_en": "Martin Lawrence",
+                        "name": "马丁·劳伦斯",
+                        "alt": "https://movie.douban.com/celebrity/1002698/",
+                        "id": "1002698"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p291.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p291.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p291.jpg"
+                        },
+                        "name_en": "Vanessa Hudgens",
+                        "name": "凡妮莎·哈金斯",
+                        "alt": "https://movie.douban.com/celebrity/1025150/",
+                        "id": "1025150"
+                    }
+                ],
+                "durations": [
+                    "124分钟"
+                ],
+                "collect_count": 24323,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Bad Boys for Life",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241838.73.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241838.73.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241838.73.jpg"
+                        },
+                        "name_en": "Adil El Arbi",
+                        "name": "阿迪尔·埃尔·阿比",
+                        "alt": "https://movie.douban.com/celebrity/1396399/",
+                        "id": "1396399"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241562.3.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241562.3.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530241562.3.jpg"
+                        },
+                        "name_en": "Bilall Fallah",
+                        "name": "比拉勒·法拉赫",
+                        "alt": "https://movie.douban.com/celebrity/1396398/",
+                        "id": "1396398"
+                    }
+                ],
+                "pubdates": [
+                    "2020-01-17(美国)",
+                    "2020(中国大陆)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2574873790.jpg",
+                    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2574873790.jpg",
+                    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2574873790.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/4014397/",
+                "id": "4014397"
+            }
+        },
+        {
+            "box": 555000,
+            "new": false,
+            "rank": 11,
+            "subject": {
+                "rating": {
+                    "max": 10,
+                    "average": 5.7,
+                    "details": {
+                        "1": 3612.0,
+                        "3": 21326.0,
+                        "2": 12596.0,
+                        "5": 2989.0,
+                        "4": 7428.0
+                    },
+                    "stars": "30",
+                    "min": 0
+                },
+                "genres": [
+                    "动作",
+                    "犯罪",
+                    "冒险"
+                ],
+                "title": "猛禽小队和哈莉·奎茵",
+                "casts": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389939796.3.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389939796.3.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1389939796.3.jpg"
+                        },
+                        "name_en": "Margot Robbie",
+                        "name": "玛格特·罗比",
+                        "alt": "https://movie.douban.com/celebrity/1272303/",
+                        "id": "1272303"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570850481.29.jpg",
+                            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570850481.29.jpg",
+                            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570850481.29.jpg"
+                        },
+                        "name_en": "Mary Elizabeth Winstead",
+                        "name": "玛丽·伊丽莎白·温斯特德",
+                        "alt": "https://movie.douban.com/celebrity/1041018/",
+                        "id": "1041018"
+                    },
+                    {
+                        "avatars": {
+                            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12435.jpg",
+                            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12435.jpg",
+                            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12435.jpg"
+                        },
+                        "name_en": "Rosie Perez",
+                        "name": "罗茜·佩雷兹",
+                        "alt": "https://movie.douban.com/celebrity/1049680/",
+                        "id": "1049680"
+                    }
+                ],
+                "durations": [
+                    "109分钟"
+                ],
+                "collect_count": 60115,
+                "mainland_pubdate": "",
+                "has_video": false,
+                "original_title": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
+                "subtype": "movie",
+                "directors": [
+                    {
+                        "avatars": {
+                            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517560308.31.jpg",
+                            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517560308.31.jpg",
+                            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517560308.31.jpg"
+                        },
+                        "name_en": "Cathy Yan",
+                        "name": "阎羽茜",
+                        "alt": "https://movie.douban.com/celebrity/1388073/",
+                        "id": "1388073"
+                    }
+                ],
+                "pubdates": [
+                    "2020-02-07(美国)"
+                ],
+                "year": "2020",
+                "images": {
+                    "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575974437.jpg",
+                    "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575974437.jpg",
+                    "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575974437.jpg"
+                },
+                "alt": "https://movie.douban.com/subject/30160393/",
+                "id": "30160393"
+            }
+        }
+    ],
+    "title": "豆瓣电影北美票房榜"
+}
